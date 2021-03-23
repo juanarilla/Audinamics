@@ -385,12 +385,6 @@ hr {
     object-fit: cover;
 }
 
-.servicios_box_img3 {
-    width: 40%;
-    height: 80%;
-    object-fit: cover;
-}
-
 .servicios_box3 {
     flex: 1;
     display: flex;
